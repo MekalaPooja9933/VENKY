@@ -20,7 +20,7 @@ import com.web.service.AccountService;
 public class AccountController {
 	@Autowired
 	private AccountService service;
-		@RequestMapping("/")
+		@RequestMapping("/home")
 	public String homePage() {
 		return "home";
 	}
