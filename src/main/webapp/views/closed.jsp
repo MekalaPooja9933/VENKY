@@ -1,0 +1,1 @@
+<h1 style="color: green">Your Account Number  ${bank.act_num} has Closed.</h1>
